@@ -1,0 +1,10 @@
+This is a c++ template implementation of skip lists.
+Please refers to the paper for more details about skip lists.
+
+The papar is:
+
+Skip Lists: A Probabilistic Alternative to
+Balanced Trees  by William Pugh
+
+
+
